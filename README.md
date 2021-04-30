@@ -1,0 +1,1 @@
+# amplify-react-native-storage
